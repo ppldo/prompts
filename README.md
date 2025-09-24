@@ -1,1 +1,21 @@
 # prompts
+
+- generateDescriptionReviewPrompt
+	- name
+	- locale
+	- service
+	- price
+	- quality
+	- communication
+	- short
+- generateAboutPrompt
+	- locale
+	- industryTitle
+	- jobTitle
+- generateDescriptionPrompt
+	- serviceName
+	- jobTitle
+	- locale
+- generateContentShortDescriptionPrompt
+	- contentTitle
+	- locale
